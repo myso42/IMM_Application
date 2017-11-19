@@ -40,7 +40,7 @@ namespace WindowsFormsApplication1
             var password = tbPassword.Text;
 
             // call service
-            if (login == "tojo" && (password == "123" || password == MAGIC_PASS))
+            if (login == "tojo" && (password == "123456" || password == MAGIC_PASS))
             {
                 var parent = ((MetroButton)sender).Parent;
                 ((Form)parent).Hide();
