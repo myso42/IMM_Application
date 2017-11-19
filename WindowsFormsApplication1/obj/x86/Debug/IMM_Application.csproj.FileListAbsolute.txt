@@ -1,0 +1,12 @@
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\IMM_Application.csprojResolveAssemblyReference.cache
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Authentication.resources
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\IMM_Application.csproj.GenerateResource.Cache
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMM_Application.exe
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMM_Application.pdb
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\IMM_Application.Properties.Resources.resources
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\IMM_Application.exe
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\IMM_Application.pdb

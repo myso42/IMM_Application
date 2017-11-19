@@ -1,0 +1,12 @@
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Authentication.resources
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+D:\Projets Dev\DOT NET\TestExcelWriter\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
