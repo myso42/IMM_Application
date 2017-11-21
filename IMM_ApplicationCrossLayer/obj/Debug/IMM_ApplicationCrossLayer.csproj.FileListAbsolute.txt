@@ -1,0 +1,7 @@
+D:\Projets Dev\DOT NET\IMM\IMM_ApplicationCrossLayer\bin\Debug\IMM_ApplicationCrossLayer.dll
+D:\Projets Dev\DOT NET\IMM\IMM_ApplicationCrossLayer\bin\Debug\IMM_ApplicationCrossLayer.pdb
+D:\Projets Dev\DOT NET\IMM\IMM_ApplicationCrossLayer\bin\Debug\MetroFramework.Design.dll
+D:\Projets Dev\DOT NET\IMM\IMM_ApplicationCrossLayer\bin\Debug\MetroFramework.dll
+D:\Projets Dev\DOT NET\IMM\IMM_ApplicationCrossLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\Projets Dev\DOT NET\IMM\IMM_ApplicationCrossLayer\obj\Debug\IMM_ApplicationCrossLayer.dll
+D:\Projets Dev\DOT NET\IMM\IMM_ApplicationCrossLayer\obj\Debug\IMM_ApplicationCrossLayer.pdb
