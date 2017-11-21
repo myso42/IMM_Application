@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMM_Application", "WindowsF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMM_ApplicationCrossLayer", "IMM_ApplicationCrossLayer\IMM_ApplicationCrossLayer.csproj", "{B59EC778-AA60-466F-B2F5-ED5C125845F3}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{EE1D901F-BCA1-4326-A033-0F526EA2DD22}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{A010A803-4D09-45A9-A636-28A4D5D23FF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,12 +37,12 @@ Global
 		{B59EC778-AA60-466F-B2F5-ED5C125845F3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{B59EC778-AA60-466F-B2F5-ED5C125845F3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B59EC778-AA60-466F-B2F5-ED5C125845F3}.Release|x86.ActiveCfg = Release|Any CPU
-		{EE1D901F-BCA1-4326-A033-0F526EA2DD22}.Debug|Any CPU.ActiveCfg = Debug
-		{EE1D901F-BCA1-4326-A033-0F526EA2DD22}.Debug|Mixed Platforms.ActiveCfg = Debug
-		{EE1D901F-BCA1-4326-A033-0F526EA2DD22}.Debug|x86.ActiveCfg = Debug
-		{EE1D901F-BCA1-4326-A033-0F526EA2DD22}.Release|Any CPU.ActiveCfg = Release
-		{EE1D901F-BCA1-4326-A033-0F526EA2DD22}.Release|Mixed Platforms.ActiveCfg = Release
-		{EE1D901F-BCA1-4326-A033-0F526EA2DD22}.Release|x86.ActiveCfg = Release
+		{A010A803-4D09-45A9-A636-28A4D5D23FF9}.Debug|Any CPU.ActiveCfg = Debug
+		{A010A803-4D09-45A9-A636-28A4D5D23FF9}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{A010A803-4D09-45A9-A636-28A4D5D23FF9}.Debug|x86.ActiveCfg = Debug
+		{A010A803-4D09-45A9-A636-28A4D5D23FF9}.Release|Any CPU.ActiveCfg = Release
+		{A010A803-4D09-45A9-A636-28A4D5D23FF9}.Release|Mixed Platforms.ActiveCfg = Release
+		{A010A803-4D09-45A9-A636-28A4D5D23FF9}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
